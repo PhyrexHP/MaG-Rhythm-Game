@@ -11,6 +11,14 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="wttc" ID="{43738C57-FB43-4E28-97BF-AC2D13EB39FA}">
+					<ObjectInclusionList>
+						<ObjectRef Name="welcome_to_the_city" ID="{B2B39412-E2B1-407A-8DA2-87809EE3E0E8}" WorkUnitID="{8162C473-785C-4BB0-8C16-0C3D51BE073C}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY" ID="{EA5EB7B3-D64B-46A9-96C8-F2261CFB0CC7}" WorkUnitID="{0F79B02D-71A5-4140-9D48-3B3EA3CCE275}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

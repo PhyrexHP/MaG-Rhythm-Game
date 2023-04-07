@@ -16,6 +16,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"music","order":1,"path":"objects/music/music.yy",},
     {"name":"Script1","order":1,"path":"scripts/Script1/Script1.yy",},
     {"name":"rm_Wwise","order":1,"path":"rooms/rm_Wwise/rm_Wwise.yy",},
   ],

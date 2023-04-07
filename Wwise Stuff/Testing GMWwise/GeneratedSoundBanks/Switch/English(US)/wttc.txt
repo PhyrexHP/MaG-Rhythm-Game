@@ -1,0 +1,5 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2495996765	welcome_to_the_city			\Default Work Unit\welcome_to_the_city	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	543761388	Deltarune Chapter 2 OST

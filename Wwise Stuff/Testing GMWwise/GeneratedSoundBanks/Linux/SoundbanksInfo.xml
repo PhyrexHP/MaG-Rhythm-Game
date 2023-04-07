@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Linux" BasePlatform="Linux" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>C:\Users\alexa\Desktop\MaG-Rhythm-Game\Wwise Stuff\Testing GMWwise\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\alexa\Desktop\MaG-Rhythm-Game\Wwise Stuff\Testing GMWwise\.cache\Linux\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\alexa\Desktop\MaG-Rhythm-Game\Wwise Stuff\Testing GMWwise\GeneratedSoundBanks\Linux\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\alexa\Desktop\MaG-Rhythm-Game\Wwise Stuff\Testing GMWwise\GeneratedSoundBanks\Linux</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="579660105" Language="SFX">
+			<ShortName>Orcastral Serenity LOOP.wav</ShortName>
+			<Path>SFX\Orcastral Serenity LOOP_4B8CC0C5.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1603332755" Language="English(US)">
+			<ObjectPath>\SoundBanks\Default Work Unit\wttc</ObjectPath>
+			<ShortName>wttc</ShortName>
+			<Path>English(US)\wttc.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2495996765" Name="welcome_to_the_city" ObjectPath="\Events\Default Work Unit\welcome_to_the_city"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="543761388" Language="English(US)">
+					<ShortName>Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY.wav</ShortName>
+					<Path>Voices\English(US)\Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1661994096" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\SoundBank</ObjectPath>
+			<ShortName>SoundBank</ShortName>
+			<Path>SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3465618802" Name="Play_Bounce" ObjectPath="\Events\Default Work Unit\Play_Bounce"/>
+				<Event Id="2932040671" Name="Play_Music" ObjectPath="\Events\Default Work Unit\Play_Music"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="579660105"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="807528298" Language="SFX">
+					<ShortName>13959__adcbicycle__7.wav</ShortName>
+					<Path>SFX\13959__adcbicycle__7_59F60473.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

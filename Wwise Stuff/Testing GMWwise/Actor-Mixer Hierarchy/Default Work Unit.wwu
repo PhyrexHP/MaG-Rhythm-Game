@@ -162,6 +162,25 @@
 						<ActiveSource Name="Orcastral Serenity LOOP" ID="{AF0F0588-C128-4139-A727-40D3B323D965}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY" ID="{326DE078-9B0C-4155-9759-4B1AABB8166C}" ShortID="930964134" Type="Voice">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7CD56AA3-5A3F-4294-8C49-E104BEEF0215}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B536ED5B-1A0A-492F-9014-881D8084BBBA}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY" ID="{A89E5EC5-A35C-4A56-B2DA-8BB5A58BEC3E}" ShortID="543761388">
+							<Language>English(US)</Language>
+							<AudioFile>Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY" ID="{A89E5EC5-A35C-4A56-B2DA-8BB5A58BEC3E}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

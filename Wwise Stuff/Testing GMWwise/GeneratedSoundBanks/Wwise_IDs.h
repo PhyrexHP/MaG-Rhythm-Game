@@ -15,6 +15,7 @@ namespace AK
     {
         static const AkUniqueID PLAY_BOUNCE = 3465618802U;
         static const AkUniqueID PLAY_MUSIC = 2932040671U;
+        static const AkUniqueID WELCOME_TO_THE_CITY = 2495996765U;
     } // namespace EVENTS
 
     namespace STATES
@@ -56,6 +57,7 @@ namespace AK
     {
         static const AkUniqueID INIT = 1355168291U;
         static const AkUniqueID SOUNDBANK = 1661994096U;
+        static const AkUniqueID WTTC = 1603332755U;
     } // namespace BANKS
 
     namespace BUSSES

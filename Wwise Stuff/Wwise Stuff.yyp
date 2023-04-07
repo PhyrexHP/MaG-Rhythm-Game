@@ -28,6 +28,8 @@
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Deltarune Chapter 2 OST 17 - WELCOME TO THE CITY.mp4","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"wttc.bnk","CopyToMask":3035426170322551022,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"wttc.txt","CopyToMask":3035426170322551022,"filePath":"datafiles",},
   ],
   "isEcma": false,
   "LibraryEmitters": [],
@@ -35,6 +37,7 @@
     "IDEVersion": "2023.2.0.71",
   },
   "resources": [
+    {"id":{"name":"music","path":"objects/music/music.yy",},},
     {"id":{"name":"GMWwise","path":"extensions/GMWwise/GMWwise.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"player2","path":"objects/player2/player2.yy",},},

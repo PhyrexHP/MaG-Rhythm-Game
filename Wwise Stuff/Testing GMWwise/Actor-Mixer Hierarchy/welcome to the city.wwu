@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0F79B02D-71A5-4140-9D48-3B3EA3CCE275}" SchemaVersion="75">
+	<AudioObjects>
+		<WorkUnit Name="welcome to the city" ID="{0F79B02D-71A5-4140-9D48-3B3EA3CCE275}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY" ID="{EA5EB7B3-D64B-46A9-96C8-F2261CFB0CC7}" ShortID="244828253" Type="Voice">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7CD56AA3-5A3F-4294-8C49-E104BEEF0215}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B536ED5B-1A0A-492F-9014-881D8084BBBA}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY" ID="{89EF567B-BB43-4720-81CF-E38A52630A45}" ShortID="532481144">
+							<Language>English(US)</Language>
+							<AudioFile>Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY.wav</AudioFile>
+							<ConvertedFileIDList>
+								<File ID="543761388"/>
+							</ConvertedFileIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Deltarune Chapter 2 OST： 17 - WELCOME TO THE CITY" ID="{89EF567B-BB43-4720-81CF-E38A52630A45}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

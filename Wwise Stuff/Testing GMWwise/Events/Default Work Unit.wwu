@@ -25,6 +25,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="welcome_to_the_city" ID="{B2B39412-E2B1-407A-8DA2-87809EE3E0E8}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A0B6EE7A-ECC4-465B-B069-715C251117A8}" ShortID="1009911688" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{555BAFFB-6FE5-4EEB-B25A-1E57534C819F}" Global="false">
+									<ObjectRef Name="wttc" ID="{D6E934BD-3851-442F-90B6-AD329222F496}" WorkUnitID="{6125D459-B527-4D53-B3B9-3850B8911605}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
